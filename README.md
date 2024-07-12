@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Innenlicht/Innenlicht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 **Software Developer | Open Source Enthusiast**
 
-Here are some ideas to get you started:
+Hello! I'm Tanya Yukhin, a passionate software developer specializing in web and mobile app development. With a strong foundation in computer science and a love for coding, I thrive on building innovative solutions that make a difference.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages:** JavaScript, Dart, Python, HTML, CSS
+- **Frameworks & Libraries:** React, Redux, Flutter, Node.js
+- **Tools & Platforms:** Git, Docker, AWS, Firebase
+- **Other:** Agile Methodologies, Test-Driven Development, Continuous Integration
+
+## 🌱 Learning & Growth
+Currently diving deeper into **Cloud Computing** and **Machine Learning**. Open to collaborations on projects that challenge my skills and expand my horizons.
+
+
